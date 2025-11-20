@@ -2,6 +2,7 @@
 
 This project contains the core logic for Agent EduTutor, a multi-agent system designed to assist students preparing for competitive exams and academic courses. The agent is built using Google Agent Development Kit (ADK) and follows a modular architecture. Agent EduTutor is not a monolithic application but an ecosystem of specialized agents, each responsible for a different aspect of the learning process. These sub-agents automate the most time-consuming and critical components of modern learning: collecting study materials, building personalized pathways, delivering real-time tutoring, and providing actionable performance feedback.
 
+![image alt] ()
 
 ### Problem Statement
 
