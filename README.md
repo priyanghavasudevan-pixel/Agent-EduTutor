@@ -6,11 +6,11 @@ This project contains the core logic for Agent EduTutor, a multi-agent system de
 
 ### Problem Statement
 
-Students preparing for competitive exams and academic courses face challenges such as fragmented access to study materials, lack of personalized learning pathways, and limited real-time support. These issues result in inefficiencies that reduce learning outcomes and increase frustration and dropout risks. Manual searching and organizing of educational resources is exhausting and difficult to scale with growing content demands.
+After the failure of ChatGPT to pass the UPSC prelims exam, many people have lost faith in using AI models for competitive exam preparation. This skepticism is justified by the concern that generalized AI models may not address the nuanced requirements of your targeted exams. Students continue to face other major challenges such as fragmented and time-consuming access to study materials, lack of personalized learning pathways, and limited real-time support. These inefficiencies reduce effective learning outcomes and increase student frustration and dropout risks. Manual searching, organization, and review of study materials can be mentally exhausting and hard to scale, especially with increasing content demands.
 
 ### Solution Statement
 
-Agent EduTutor leverages autonomous agents to gather, curate, and personalize diverse educational content dynamically, adapting to each student's pace, preferences, and performance. It offers real-time interactive tutoring and instant feedback, reducing repetitive tasks for educators and enabling timely student interventions. This multi-agent system facilitates hyper-personalized and engaging learning experiences, transforming education into an efficient, accessible, and student-centered process.
+Agent EduTutor addresses these concerns by offering a domain-specific, multi-agent system that prioritizes accuracy, personalization, and exam relevance. Unlike generic AI models, EduTutor leverages dedicated sub-agents for content curation, adaptive tutoring, real-time feedback, and up-to-date internet search (via google_search), ensuring that the resources and guidance provided are tailored to the syllabus and exam pattern. This system continuously refines its recommendations based on student feedback and performance, thereby boosting user confidence in AI-assisted learning and making exam preparation more reliable, effective, and efficient.
 
 ### Architecture
 
